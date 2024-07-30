@@ -66,5 +66,3 @@ net.sniff on
 **Description:**
 Initiates the packet sniffing process. With this command, the attacker can monitor and capture all traffic between the target device and the network.
 
----
-
