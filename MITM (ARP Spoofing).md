@@ -1,7 +1,5 @@
 
----
-
-## Network Probing and ARP Spoofing Configuration
+# Network Probing and ARP Spoofing Configuration
 
 This guide outlines the steps for setting up network probing, ARP spoofing, and packet sniffing on a local network. The configuration will allow for sending probe packets, performing a Man-in-the-Middle (MITM) attack through ARP spoofing, and capturing network traffic from selected targets.
 ### 1.Start Bettercap:
