@@ -1,6 +1,6 @@
 
 ---
-The provided URLs are examples of potential SQL injection attacks aimed at extracting information from the database of the website `http://bdfoods.com.bd`. SQL injection is a technique where attackers insert malicious SQL queries into input fields, allowing them to execute arbitrary SQL commands on the database.
+ SQL injection is a technique where attackers insert malicious SQL queries into input fields, allowing them to execute arbitrary SQL commands on the database.
 
 ### 1. Basic Parameter Injection
 
